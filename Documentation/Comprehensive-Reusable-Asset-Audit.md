@@ -92,6 +92,7 @@ Locate and evaluate these known candidates first:
 - Ocean materials, shaders, and surface assets
 - Buoyancy or wave-following integrations
 - Finished dock prefab
+- Lighthouses, including variations, interiors, light behavior, materials, and supporting effects
 - Palm trees
 - Tiki torches
 - Island houses and every existing variation
@@ -129,6 +130,8 @@ Search each category below. Record only candidates that plausibly support the fi
 #### Settlements and architecture
 
 - Island houses and variations
+- Lighthouses and lighthouse variations
+- Lighthouse interiors, stairs, doors, windows, lamps, beams, rotating-light behavior, fog interaction, materials, and nighttime presentation
 - Docks, piers, jetties, moorings, ladders, gangways, and harbor structures
 - Inns, taverns, shops, warehouses, shipyards, forts, towers, huts, tents, and ruins
 - Doors, windows, roofs, walls, floors, stairs, fences, signs, banners, and modular building pieces
