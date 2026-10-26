@@ -37,6 +37,25 @@ These realm games follow Talvaren's established development discipline:
 - Unresolved ideas, examples, analysis, and suggestions are not canon.
 - Exceptions and added mechanics require Butch's explicit approval.
 
+## Relationship to Talvaren Progression
+
+Realm Games use their **own characters and progression systems**. Talvaren's experience curve, leveling speed, and daily experience values do not apply inside them.
+
+Talvaren may use a **daily experience soft cap** to establish a healthy expected progression rate. This must not function as a hard play limit. Players who reach the soft cap should still have meaningful reasons to continue playing, including participation in Realm Games.
+
+This structure serves several goals:
+
+- Pre-release Realm Game content should remain meaningful for substantially longer than two days.
+- Realm Games should provide worthwhile alternative play after a player reaches Talvaren's daily experience soft cap.
+- Extended play should not automatically produce an unlimited Talvaren leveling advantage.
+- The design should discourage gold-selling operations, trolling, exploitative grinding, and persistent no-life advantages.
+- It should not punish an ordinary player who has unusual free time—such as a week away from work—and wants to enjoy several marathon sessions.
+- Realm Game rewards that carry into Talvaren must not become a disguised way to bypass Talvaren's intended progression or economic pacing.
+
+The goal is not to tell dedicated players that they have played enough. The goal is to redirect continued play into substantial parallel adventures that remain enjoyable and rewarding without destabilizing Talvaren.
+
+The exact behavior of the soft cap, its reset conditions, post-cap Talvaren progression, transferable rewards, and protections against exploitation remain undecided.
+
 ## Current Concepts
 
 - [Mining Realm](Mining-Realm.md)
