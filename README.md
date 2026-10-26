@@ -10,24 +10,25 @@ Nothing in this repository is Talvaren canon unless Butch explicitly approves it
 
 Ideas, analysis, examples, and possible mechanics are not approved merely because they appear in conversation. Do not add mechanics to these documents unless Butch explicitly approves them. A mechanic becomes established for a realm game only when Butch unmistakably approves or locks it.
 
-## Current Concepts
+## Shared Realm-Game Framework
 
-- [Mining Realm](Mining-Realm.md)
-
-## Shared Facts
-
-- A realm game is instanced.
-- The party limit is five players, never more.
-- A realm game is not an MMO.
+- Realm games are compact, system-focused games.
+- Each realm game supports no more than five players.
+- Each realm game is instanced and is not an MMO.
+- Each realm game is built around one strong playable activity.
+- Every realm game has five tiers.
+- Realm games prioritize clear gameplay, advancement, danger, and replayability over heavy graphics, elaborate simulations, or traditional quest chains.
 - A player creates a new character for the realm game.
 - The player's Talvaren class and level do not apply inside the realm game.
 - A realm game may later be accessible through Talvaren.
-- Realm-game play may provide real game-side rewards, but the form and rules of those rewards remain undecided.
+- Realm-game play may provide real game-side rewards. Reward forms and rules must be approved separately.
 
-## Other Ideas Mentioned
+## Current Concepts
 
-The following are names only. No mechanics or setting rules have been approved:
+- [Mining Realm](Mining-Realm.md)
+- [Seafaring Realm](Seafaring-Realm.md)
+- [Expedition Realm](Expedition-Realm.md)
+- [Vast Below Realm](Vast-Below-Realm.md)
+- [Fey Realm](Fey-Realm.md)
 
-- Land of the Fey
-- Vast Below
-- A prison realm concept
+Each concept file records only approved direction. Anything not stated there remains undecided.
