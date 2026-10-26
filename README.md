@@ -56,6 +56,27 @@ The goal is not to tell dedicated players that they have played enough. The goal
 
 The exact behavior of the soft cap, its reset conditions, post-cap Talvaren progression, transferable rewards, and protections against exploitation remain undecided.
 
+## Talvaren Account and Product Gateway
+
+Players are intended to become **Talvaren account holders from the beginning**, rather than holding an unrelated Realm Game account that must be merged later.
+
+The current player-facing gateway is:
+
+- [Enter Talvaren](https://talvarenstudios.com/#portal=gateway&section=talvaren-enter)
+
+The intended architecture is:
+
+- A player creates one Talvaren account through the Talvaren Studios website.
+- Email is used as a login identifier, but the account is internally tied to a permanent player ID so an email change does not break ownership or progression.
+- Authentication is intended to support a password plus two-factor authentication.
+- The same account controls verified identity, product/download entitlement, Realm Game accomplishments, and eventual access to Talvaren.
+- The Realm Game is expected to be the first downloadable Talvaren-connected product.
+- When Talvaren becomes available, the same account can receive Talvaren access without requiring a separate identity.
+- Talvaren may recognize approved Realm Game accomplishments through a controlled transfer record. Exact transferable rewards and conversion rules remain undecided and require separate approval.
+- Realm Game save data must not automatically become unrestricted Talvaren character data.
+
+This account service is distinct from a dedicated gameplay server. Private Realm Game testing may use an approved host/relay arrangement while still relying on an online identity and entitlement service. The final authentication provider, account backend, download-delivery method, multiplayer topology, hosting plan, and security implementation remain undecided.
+
 ## Current Concepts
 
 - [Mining Realm](Mining-Realm.md)
