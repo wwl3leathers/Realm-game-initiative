@@ -1,0 +1,57 @@
+# Unity-generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Builds and exported packages
+[Bb]uild/
+[Bb]uilds/
+ExportedObj/
+*.apk
+*.aab
+*.unitypackage
+
+# IDE and editor state
+.vs/
+.idea/
+.vscode/
+.consulo/
+.gradle/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Unity and crash diagnostics
+sysinfo.txt
+crashlytics-build.properties
+mono_crash.*
+debug.log
+
+# Generated review evidence and temporary captures
+GeneratedAssets/
+Captures/
+Screenshots/
+TestResults/
+*.tmp
+*.bak
+
+# Asset Store publishing tools are not project content
+Assets/AssetStoreTools*
