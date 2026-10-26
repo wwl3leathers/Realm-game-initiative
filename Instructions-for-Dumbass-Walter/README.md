@@ -30,7 +30,7 @@ This folder is not Realm Game design canon and does not approve mechanics. Autho
 
 These decisions cannot be inferred from the Talvaren repository. They may be answered gradually as the audit clarifies the available options.
 
-- [ ] Define what counts as the first finished release, including whether its first public version must already support one-to-five-player online cooperative play with persistent characters.
+- [x] **Decided:** The game is multiplayer-first. Its first public release must support one-to-five-player online cooperative play. Persistent characters and multiplayer authority must be designed into the foundation. Single-client play is a development and validation mode, not a separately built single-player architecture awaiting later conversion.
 - [ ] Decide how independent the first release is from Talvaren accounts and future transferable rewards.
 - [ ] Establish the financial boundary for hosting, networking services, plugins, and additional assets.
 - [ ] Decide whether the initial release is for Walter and invited testers, a wider free public release, or a commercial storefront.
