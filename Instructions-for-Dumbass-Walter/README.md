@@ -30,7 +30,11 @@ This folder is not Realm Game design canon and does not approve mechanics. Autho
 
 These decisions cannot be inferred from the Talvaren repository. They may be answered gradually as the audit clarifies the available options.
 
-- [x] **Decided:** The game is multiplayer-first. Its first public release must support one-to-five-player online cooperative play. Persistent characters and multiplayer authority must be designed into the foundation. Single-client play is a development and validation mode, not a separately built single-player architecture awaiting later conversion.
+- [x] **Decided:** The game is multiplayer-first and must support one-to-five players. One player must be able to play alone and optionally be joined by no more than four friends. Multiplayer authority and persistent-character requirements must be designed into the foundation rather than retrofitted later.
+  - **Initial test release:** Private access for Walter's family and selected friends. It must support solo play and optional cooperative joining for a total of no more than five players.
+  - **Later prerelease:** After the private group has played long enough to expose problems and validate features, Walter intends to rent a server and offer broader prerelease access.
+  - A rented dedicated server is not automatically required for the initial private test. Codex must audit existing networking systems and recommend whether host-client play, relay-assisted hosting, or an early dedicated server best satisfies the requirements before an architecture is approved.
+  - Single-client operation remains a legitimate development and validation mode, but the game must not be constructed as a separate single-player architecture awaiting later multiplayer conversion.
 - [ ] Decide how independent the first release is from Talvaren accounts and future transferable rewards.
 - [ ] Establish the financial boundary for hosting, networking services, plugins, and additional assets.
 - [ ] Decide whether the initial release is for Walter and invited testers, a wider free public release, or a commercial storefront.
