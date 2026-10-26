@@ -77,6 +77,19 @@ The intended architecture is:
 
 This account service is distinct from a dedicated gameplay server. Private Realm Game testing may use an approved host/relay arrangement while still relying on an online identity and entitlement service. The final authentication provider, account backend, download-delivery method, multiplayer topology, hosting plan, and security implementation remain undecided.
 
+### Implementation Authority and Verified Access
+
+Butch has authorized Codex to modify the Talvaren website and its repository when this account, entitlement, download, and Realm Game integration work reaches implementation.
+
+Verified current access:
+
+- Website repository: `wwl3leathers/wwl3leathers.github.io`
+- Repository permissions available to the connected GitHub integration: admin, maintain, pull, push, and triage
+- Existing gateway source: `html/talvaren/enter-talvaren.html`
+- Existing navigation records: `data/navigation.json` and `js/navigation.js`
+
+Do not ask Butch to re-grant basic permission or provide a repository that is already connected. At implementation time, inspect the current repository and applicable instructions before editing, preserve unrelated website behavior, and confine account/download integration work to the approved Talvaren scope unless Butch expands it. Undecided product mechanics, paid services, credentials, and security-provider choices remain decisions to resolve; they are not evidence that website or repository access is missing.
+
 ## Current Concepts
 
 - [Mining Realm](Mining-Realm.md)
