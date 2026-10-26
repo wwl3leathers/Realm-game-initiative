@@ -23,6 +23,20 @@ Ideas, analysis, examples, and possible mechanics are not approved merely becaus
 - A realm game may later be accessible through Talvaren.
 - Realm-game play may provide real game-side rewards. Reward forms and rules must be approved separately.
 
+## Design and Implementation Rules
+
+These realm games follow Talvaren's established development discipline:
+
+- Use the simplest readable implementation that performs the approved gameplay function.
+- Prioritize playability and clear feedback over graphical weight or decorative fidelity.
+- Reuse shared mechanics wherever practical.
+- Do not create bespoke simulations, extra reactions, particles, animation work, scenes, scripts, effects, abstractions, or adjacent features without Butch's explicit approval.
+- Do not overengineer.
+- Keep systems engine-feasible, performance-aware, economical with CPU, and readable through play.
+- Presentation and technical shortcuts may support the experience, but they may not rewrite approved world truth.
+- Unresolved ideas, examples, analysis, and suggestions are not canon.
+- Exceptions and added mechanics require Butch's explicit approval.
+
 ## Current Concepts
 
 - [Mining Realm](Mining-Realm.md)
