@@ -65,3 +65,11 @@ The exact behavior of the soft cap, its reset conditions, post-cap Talvaren prog
 - [Fey Realm](Fey-Realm.md)
 
 Each concept file records only approved direction. Anything not stated there remains undecided.
+
+## Instructions for Dumbass Walter
+
+[Instructions for Dumbass Walter](Instructions-for-Dumbass-Walter/README.md) is the plain-language operational dashboard for the project's current work.
+
+It contains Walter's immediate to-do list, the required order of operations for Codex, the current stopping point, and the conditions that must be met before work advances. It is deliberately fluid and must be updated whenever tasks are added, completed, removed, postponed, or reordered.
+
+This operational section is not design canon and does not approve mechanics.
