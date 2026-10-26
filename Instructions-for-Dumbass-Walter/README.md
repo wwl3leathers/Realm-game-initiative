@@ -44,11 +44,12 @@ Tell Codex to do the following in this order:
 
 - [ ] Read **AGENTS.md** completely.
 - [ ] Read **Documentation/Desktop-Setup-and-Naval-Migration.md** completely.
+- [ ] Read **Documentation/Comprehensive-Reusable-Asset-Audit.md** completely and follow its phases, evidence fields, stopping rules, and single-report requirement.
 - [ ] Inspect Talvaren's **ProjectSettings/ProjectVersion.txt**.
 - [ ] Perform a **read-only** audit of the local Talvaren naval assets.
 - [ ] Verify the schooner, sloop, naval capture keeper, runtime ship code, tests, audio, and every required dependency.
-- [ ] Perform a broader read-only inventory of existing systems and assets that could be repurposed for the Realm Game.
-- [ ] Specifically locate and evaluate Talvaren's water logic, wave system, palm trees, tiki torches, finished dock prefab, island houses and their variations, and Walter's twelve-paint palette.
+- [ ] Perform the bounded reusable-asset audit exactly as specified; do not substitute an unstructured whole-project crawl.
+- [ ] Specifically locate and evaluate Talvaren's water logic, wave system, palm trees, tiki torches, finished dock prefab, lighthouses and their variations, island houses and their variations, and Walter's twelve-paint palette.
 - [ ] Identify other suitable owned terrain, island, settlement, foliage, prop, lighting, audio, effect, character, animation, interface, and gameplay assets rather than limiting the report to Walter's examples.
 - [ ] For every recommended reusable system or asset, state what it does, where it is located, whether it currently works, what it depends upon, and whether it can be migrated cleanly.
 - [ ] Record file sizes and identify which files belong in ordinary Git, Git LFS, or neither.
@@ -62,7 +63,7 @@ Tell Codex to do the following in this order:
 
 - Prefer assets that Walter owns completely whenever possible.
 - Reuse the strong systems, prefabs, art, and variations already available rather than recreating satisfactory work.
-- The existing water logic, wave system, palm trees, tiki torches, finished dock prefab, island houses and their variations, and twelve-paint palette are explicitly available for evaluation and transfer.
+- The existing water logic, wave system, palm trees, tiki torches, finished dock prefab, lighthouses and their variations, island houses and their variations, and twelve-paint palette are explicitly available for evaluation and transfer.
 - Do not import a dependency-heavy asset pack merely to obtain one trivial object.
 - If a third-party asset pack is worth introducing, obtain meaningful value from that pack and use it as a coherent source rather than mixing one bench from one pack with unrelated pieces from many others.
 - If a dependency-heavy pack is not worth using coherently, Codex should create a proper reusable project prefab from inputs Walter owns completely whenever practical.
